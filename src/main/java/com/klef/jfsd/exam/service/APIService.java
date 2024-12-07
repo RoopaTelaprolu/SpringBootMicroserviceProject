@@ -1,4 +1,4 @@
-package com.klef.jfsd.springboot.service;
+package com.klef.jfsd.exam.service;
 
 import java.util.List;
 

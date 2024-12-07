@@ -1,4 +1,4 @@
-package com.klef.jfsd.springboot;
+package com.klef.jfsd.exam;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

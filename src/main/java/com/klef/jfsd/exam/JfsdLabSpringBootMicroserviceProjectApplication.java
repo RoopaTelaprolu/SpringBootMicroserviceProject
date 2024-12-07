@@ -1,4 +1,4 @@
-package com.klef.jfsd.springboot;
+package com.klef.jfsd.exam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
